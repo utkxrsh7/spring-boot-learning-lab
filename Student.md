@@ -54,3 +54,4 @@ public class Student {
 // learnt about Exception handling
 // learnt about CRUD operations
 // learnt about REST API's
+// learnt about global exception
