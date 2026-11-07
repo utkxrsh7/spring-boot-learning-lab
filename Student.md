@@ -56,3 +56,4 @@ public class Student {
 // learnt about REST API's
 // learnt about global exception
 // learnt about Not null
+// learnt about email validation
