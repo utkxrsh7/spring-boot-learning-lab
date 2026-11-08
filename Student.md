@@ -57,3 +57,4 @@ public class Student {
 // learnt about global exception
 // learnt about Not null
 // learnt about email validation
+// learnt about maven dependencies
