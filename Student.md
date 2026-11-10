@@ -59,3 +59,4 @@ public class Student {
 // learnt about email validation
 // learnt about maven dependencies
 // learnt about requestBody
+// learnt about requestParam
