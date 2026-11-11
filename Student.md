@@ -60,3 +60,4 @@ public class Student {
 // learnt about maven dependencies
 // learnt about requestBody
 // learnt about requestParam
+// learnt about getters
