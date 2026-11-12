@@ -61,3 +61,4 @@ public class Student {
 // learnt about requestBody
 // learnt about requestParam
 // learnt about getters
+// learnt about annotations
