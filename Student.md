@@ -66,4 +66,5 @@ public class Student {
 // learnt about IOC
 // learnt about handling bugs
 // learnt about dependency injection
-// learnt about bean lifecycles and scops
+// learnt about bean lifecycles and scopes
+// learnt about WAR's 
