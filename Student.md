@@ -69,3 +69,4 @@ public class Student {
 // learnt about bean lifecycles and scopes
 // learnt about WAR's 
 // learnt about configuration management
+// learnt about JAR's
